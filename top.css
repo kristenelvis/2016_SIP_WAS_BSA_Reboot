@@ -1,0 +1,84 @@
+head {
+    background-color: #001A7A;
+
+
+}
+body{
+    background-color: #2095BC;
+    margin: 0 0 218px;
+}
+
+h1{
+	font-size:100px;
+	font-weight: normal;
+	font-family: "Gill Sans MT";
+	margin-left: 75px;
+	margin-right: 25px;
+	margin-top: -20px;
+	color: white;
+}
+
+.billboard{
+      background: 
+    linear-gradient(
+      rgba(255, 255, 0, 0.45), 
+      rgba(255, 255, 0, 0.45)
+      ),
+    url(an.jpg);
+	height: 200px;
+	padding: 2px;
+}
+.chick{
+	position: relative;
+    left: 300px;
+    top: 200px;
+	
+}
+.pizza{
+	position: relative;
+    left: 0px;
+    top: 400px;
+	
+}
+.depression{
+	position: relative;
+    left: 0px;
+    top: 550px;
+	
+}.lgbt{
+	position: relative;
+    left: 0px;
+    top: 1500px;
+	
+}
+.hon{
+	position: relative;
+    left: 500px;
+    top: 200px;
+	
+}
+.chick{
+	position: relative;
+    left: 300px;
+    top: 200px;
+	
+}
+.links{
+	position: center;
+	
+}
+.chicken{
+	 background: 
+   url(chicken.jpg);
+	height: 100px;
+	padding: 18px;
+}
+.margin{
+	margin: 100px;
+	position: relative;
+    left: 130px;
+    
+
+
+}
+
